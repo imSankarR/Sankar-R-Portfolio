@@ -32,9 +32,9 @@ The primary aim of this portfolio website is to:
 ## 📫 Contact  
 
 Feel free to connect with me:  
-- **Email**: sankarrstv@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/sankarrstv  
-- **Portfolio Live Link**: https://sankarrstv.github.io/Sankar-R-Portfolio/  
+- **Email**: imsankar.rs@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/imsankarr  
+- **Portfolio Live Link**: https://imsankarr.github.io/Sankar-R-Portfolio/  
 
 ---
 
